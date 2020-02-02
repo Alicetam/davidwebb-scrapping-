@@ -1,0 +1,1253 @@
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [92m [+] [92m Now getting Changes for 948 [0m
+[1m [92m [+] [92m Now getting Concentration for 948 [0m
+[1m [92m [+] [92m Done for 948 [0m
+
+[1m [95m [+] [95m Requesting for 1321 [0m
+[1m [92m [+] [92m Now getting CCASS for 1321 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [92m [+] [92m Now getting Changes for 948 [0m
+[1m [92m [+] [92m Now getting Concentration for 948 [0m
+[1m [92m [+] [92m Done for 948 [0m
+
+[1m [95m [+] [95m Requesting for 1321 [0m
+[1m [92m [+] [92m Now getting CCASS for 1321 [0m
+[1m [92m [+] [92m Now getting Changes for 1321 [0m
+[1m [92m [+] [92m Now getting Concentration for 1321 [0m
+[1m [92m [+] [92m Done for 1321 [0m
+
+[1m [95m [+] [95m Requesting for 1367 [0m
+[1m [92m [+] [92m Now getting CCASS for 1367 [0m
+[1m [92m [+] [92m Now getting Changes for 1367 [0m
+[1m [92m [+] [92m Now getting Concentration for 1367 [0m
+[1m [92m [+] [92m Done for 1367 [0m
+
+[1m [95m [+] [95m Requesting for 1536 [0m
+[1m [92m [+] [92m Now getting CCASS for 1536 [0m
+[1m [92m [+] [92m Now getting Changes for 1536 [0m
+[1m [92m [+] [92m Now getting Concentration for 1536 [0m
+[1m [92m [+] [92m Done for 1536 [0m
+
+[1m [95m [+] [95m Requesting for 8187 [0m
+[1m [92m [+] [92m Now getting CCASS for 8187 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [92m [+] [92m Now getting Changes for 948 [0m
+[1m [92m [+] [92m Now getting Concentration for 948 [0m
+[1m [92m [+] [92m Done for 948 [0m
+
+[1m [95m [+] [95m Requesting for 1321 [0m
+[1m [92m [+] [92m Now getting CCASS for 1321 [0m
+[1m [92m [+] [92m Now getting Changes for 1321 [0m
+[1m [92m [+] [92m Now getting Concentration for 1321 [0m
+[1m [92m [+] [92m Done for 1321 [0m
+
+[1m [95m [+] [95m Requesting for 1367 [0m
+[1m [92m [+] [92m Now getting CCASS for 1367 [0m
+[1m [92m [+] [92m Now getting Changes for 1367 [0m
+[1m [92m [+] [92m Now getting Concentration for 1367 [0m
+[1m [92m [+] [92m Done for 1367 [0m
+
+[1m [95m [+] [95m Requesting for 1536 [0m
+[1m [92m [+] [92m Now getting CCASS for 1536 [0m
+[1m [92m [+] [92m Now getting Changes for 1536 [0m
+[1m [92m [+] [92m Now getting Concentration for 1536 [0m
+[1m [92m [+] [92m Done for 1536 [0m
+
+[1m [95m [+] [95m Requesting for 8187 [0m
+[1m [92m [+] [92m Now getting CCASS for 8187 [0m
+[1m [92m [+] [92m Now getting Changes for 8187 [0m
+[1m [92m [+] [92m Now getting Concentration for 8187 [0m
+[1m [92m [+] [92m Done for 8187 [0m
+
+[1m [95m [+] [95m Requesting for 1753 [0m
+[1m [92m [+] [92m Now getting CCASS for 1753 [0m
+[1m [92m [+] [92m Now getting Changes for 1753 [0m
+[1m [92m [+] [92m Now getting Concentration for 1753 [0m
+[1m [92m [+] [92m Done for 1753 [0m
+
+147
+[1m [93m [+] [93m Pdf file is stored here "/Users/Alice/Downloads/alice/2020-01-31" [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [92m [+] [92m Now getting Changes for 948 [0m
+[1m [92m [+] [92m Now getting Concentration for 948 [0m
+[1m [92m [+] [92m Done for 948 [0m
+
+[1m [95m [+] [95m Requesting for 1321 [0m
+[1m [92m [+] [92m Now getting CCASS for 1321 [0m
+[1m [92m [+] [92m Now getting Changes for 1321 [0m
+[1m [92m [+] [92m Now getting Concentration for 1321 [0m
+[1m [92m [+] [92m Done for 1321 [0m
+
+[1m [95m [+] [95m Requesting for 1367 [0m
+[1m [92m [+] [92m Now getting CCASS for 1367 [0m
+[1m [92m [+] [92m Now getting Changes for 1367 [0m
+[1m [92m [+] [92m Now getting Concentration for 1367 [0m
+[1m [92m [+] [92m Done for 1367 [0m
+
+[1m [95m [+] [95m Requesting for 1536 [0m
+[1m [92m [+] [92m Now getting CCASS for 1536 [0m
+[1m [92m [+] [92m Now getting Changes for 1536 [0m
+[1m [92m [+] [92m Now getting Concentration for 1536 [0m
+[1m [92m [+] [92m Done for 1536 [0m
+
+[1m [95m [+] [95m Requesting for 8187 [0m
+[1m [92m [+] [92m Now getting CCASS for 8187 [0m
+[1m [92m [+] [92m Now getting Changes for 8187 [0m
+[1m [92m [+] [92m Now getting Concentration for 8187 [0m
+[1m [92m [+] [92m Done for 8187 [0m
+
+[1m [95m [+] [95m Requesting for 1753 [0m
+[1m [92m [+] [92m Now getting CCASS for 1753 [0m
+[1m [92m [+] [92m Now getting Changes for 1753 [0m
+[1m [92m [+] [92m Now getting Concentration for 1753 [0m
+[1m [92m [+] [92m Done for 1753 [0m
+
+147
+[1m [93m [+] [93m Pdf file is stored here "/Users/Alice/Downloads/alice/2020-01-31" [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [92m [+] [92m Now getting Changes for 948 [0m
+[1m [92m [+] [92m Now getting Concentration for 948 [0m
+[1m [92m [+] [92m Done for 948 [0m
+
+[1m [95m [+] [95m Requesting for 1321 [0m
+[1m [92m [+] [92m Now getting CCASS for 1321 [0m
+[1m [92m [+] [92m Now getting Changes for 1321 [0m
+[1m [92m [+] [92m Now getting Concentration for 1321 [0m
+[1m [92m [+] [92m Done for 1321 [0m
+
+[1m [95m [+] [95m Requesting for 1367 [0m
+[1m [92m [+] [92m Now getting CCASS for 1367 [0m
+[1m [92m [+] [92m Now getting Changes for 1367 [0m
+[1m [92m [+] [92m Now getting Concentration for 1367 [0m
+[1m [92m [+] [92m Done for 1367 [0m
+
+[1m [95m [+] [95m Requesting for 1536 [0m
+[1m [92m [+] [92m Now getting CCASS for 1536 [0m
+[1m [92m [+] [92m Now getting Changes for 1536 [0m
+[1m [92m [+] [92m Now getting Concentration for 1536 [0m
+[1m [92m [+] [92m Done for 1536 [0m
+
+[1m [95m [+] [95m Requesting for 8187 [0m
+[1m [92m [+] [92m Now getting CCASS for 8187 [0m
+[1m [92m [+] [92m Now getting Changes for 8187 [0m
+[1m [92m [+] [92m Now getting Concentration for 8187 [0m
+[1m [92m [+] [92m Done for 8187 [0m
+
+[1m [95m [+] [95m Requesting for 1753 [0m
+[1m [92m [+] [92m Now getting CCASS for 1753 [0m
+[1m [92m [+] [92m Now getting Changes for 1753 [0m
+[1m [92m [+] [92m Now getting Concentration for 1753 [0m
+[1m [92m [+] [92m Done for 1753 [0m
+
+147
+[1m [93m [+] [93m Pdf file is stored here "/Users/Alice/Downloads/alice/2020-01-31" [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [92m [+] [92m Now getting Changes for 948 [0m
+[1m [92m [+] [92m Now getting Concentration for 948 [0m
+[1m [92m [+] [92m Done for 948 [0m
+
+[1m [95m [+] [95m Requesting for 1321 [0m
+[1m [92m [+] [92m Now getting CCASS for 1321 [0m
+[1m [92m [+] [92m Now getting Changes for 1321 [0m
+[1m [92m [+] [92m Now getting Concentration for 1321 [0m
+[1m [92m [+] [92m Done for 1321 [0m
+
+[1m [95m [+] [95m Requesting for 1367 [0m
+[1m [92m [+] [92m Now getting CCASS for 1367 [0m
+[1m [92m [+] [92m Now getting Changes for 1367 [0m
+[1m [92m [+] [92m Now getting Concentration for 1367 [0m
+[1m [92m [+] [92m Done for 1367 [0m
+
+[1m [95m [+] [95m Requesting for 1536 [0m
+[1m [92m [+] [92m Now getting CCASS for 1536 [0m
+[1m [92m [+] [92m Now getting Changes for 1536 [0m
+[1m [92m [+] [92m Now getting Concentration for 1536 [0m
+[1m [92m [+] [92m Done for 1536 [0m
+
+[1m [95m [+] [95m Requesting for 8187 [0m
+[1m [92m [+] [92m Now getting CCASS for 8187 [0m
+[1m [92m [+] [92m Now getting Changes for 8187 [0m
+[1m [92m [+] [92m Now getting Concentration for 8187 [0m
+[1m [92m [+] [92m Done for 8187 [0m
+
+[1m [95m [+] [95m Requesting for 1753 [0m
+[1m [92m [+] [92m Now getting CCASS for 1753 [0m
+[1m [92m [+] [92m Now getting Changes for 1753 [0m
+[1m [92m [+] [92m Now getting Concentration for 1753 [0m
+[1m [92m [+] [92m Done for 1753 [0m
+
+147
+[1m [93m [+] [93m Pdf file is stored here "/Users/Alice/Downloads/alice/2020-01-31" [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [92m [+] [92m Now getting Changes for 948 [0m
+[1m [92m [+] [92m Now getting Concentration for 948 [0m
+[1m [92m [+] [92m Done for 948 [0m
+
+[1m [95m [+] [95m Requesting for 1321 [0m
+[1m [92m [+] [92m Now getting CCASS for 1321 [0m
+[1m [92m [+] [92m Now getting Changes for 1321 [0m
+[1m [92m [+] [92m Now getting Concentration for 1321 [0m
+[1m [92m [+] [92m Done for 1321 [0m
+
+[1m [95m [+] [95m Requesting for 1367 [0m
+[1m [92m [+] [92m Now getting CCASS for 1367 [0m
+[1m [92m [+] [92m Now getting Changes for 1367 [0m
+[1m [92m [+] [92m Now getting Concentration for 1367 [0m
+[1m [92m [+] [92m Done for 1367 [0m
+
+[1m [95m [+] [95m Requesting for 1536 [0m
+[1m [92m [+] [92m Now getting CCASS for 1536 [0m
+[1m [92m [+] [92m Now getting Changes for 1536 [0m
+[1m [92m [+] [92m Now getting Concentration for 1536 [0m
+[1m [92m [+] [92m Done for 1536 [0m
+
+[1m [95m [+] [95m Requesting for 8187 [0m
+[1m [92m [+] [92m Now getting CCASS for 8187 [0m
+[1m [92m [+] [92m Now getting Changes for 8187 [0m
+[1m [92m [+] [92m Now getting Concentration for 8187 [0m
+[1m [92m [+] [92m Done for 8187 [0m
+
+[1m [95m [+] [95m Requesting for 1753 [0m
+[1m [92m [+] [92m Now getting CCASS for 1753 [0m
+[1m [92m [+] [92m Now getting Changes for 1753 [0m
+[1m [92m [+] [92m Now getting Concentration for 1753 [0m
+[1m [92m [+] [92m Done for 1753 [0m
+
+147
+[1m [93m [+] [93m Pdf file is stored here "/Users/Alice/Downloads/alice/2020-01-31" [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [92m [+] [92m Now getting Changes for 948 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [92m [+] [92m Now getting Changes for 948 [0m
+[1m [92m [+] [92m Now getting Concentration for 948 [0m
+[1m [92m [+] [92m Done for 948 [0m
+
+[1m [95m [+] [95m Requesting for 1321 [0m
+[1m [92m [+] [92m Now getting CCASS for 1321 [0m
+[1m [92m [+] [92m Now getting Changes for 1321 [0m
+[1m [92m [+] [92m Now getting Concentration for 1321 [0m
+[1m [92m [+] [92m Done for 1321 [0m
+
+[1m [95m [+] [95m Requesting for 1367 [0m
+[1m [92m [+] [92m Now getting CCASS for 1367 [0m
+[1m [92m [+] [92m Now getting Changes for 1367 [0m
+[1m [92m [+] [92m Now getting Concentration for 1367 [0m
+[1m [92m [+] [92m Done for 1367 [0m
+
+[1m [95m [+] [95m Requesting for 1536 [0m
+[1m [92m [+] [92m Now getting CCASS for 1536 [0m
+[1m [92m [+] [92m Now getting Changes for 1536 [0m
+[1m [92m [+] [92m Now getting Concentration for 1536 [0m
+[1m [92m [+] [92m Done for 1536 [0m
+
+[1m [95m [+] [95m Requesting for 8187 [0m
+[1m [92m [+] [92m Now getting CCASS for 8187 [0m
+[1m [92m [+] [92m Now getting Changes for 8187 [0m
+[1m [92m [+] [92m Now getting Concentration for 8187 [0m
+[1m [92m [+] [92m Done for 8187 [0m
+
+[1m [95m [+] [95m Requesting for 1753 [0m
+[1m [92m [+] [92m Now getting CCASS for 1753 [0m
+[1m [92m [+] [92m Now getting Changes for 1753 [0m
+[1m [92m [+] [92m Now getting Concentration for 1753 [0m
+[1m [92m [+] [92m Done for 1753 [0m
+
+147
+[1m [93m [+] [93m Pdf file is stored here "/Users/Alice/Downloads/alice/2020-01-31" [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [92m [+] [92m Now getting Changes for 948 [0m
+[1m [92m [+] [92m Now getting Concentration for 948 [0m
+[1m [92m [+] [92m Done for 948 [0m
+
+[1m [95m [+] [95m Requesting for 1321 [0m
+[1m [92m [+] [92m Now getting CCASS for 1321 [0m
+[1m [92m [+] [92m Now getting Changes for 1321 [0m
+[1m [92m [+] [92m Now getting Concentration for 1321 [0m
+[1m [92m [+] [92m Done for 1321 [0m
+
+[1m [95m [+] [95m Requesting for 1367 [0m
+[1m [92m [+] [92m Now getting CCASS for 1367 [0m
+[1m [92m [+] [92m Now getting Changes for 1367 [0m
+[1m [92m [+] [92m Now getting Concentration for 1367 [0m
+[1m [92m [+] [92m Done for 1367 [0m
+
+[1m [95m [+] [95m Requesting for 1536 [0m
+[1m [92m [+] [92m Now getting CCASS for 1536 [0m
+[1m [92m [+] [92m Now getting Changes for 1536 [0m
+[1m [92m [+] [92m Now getting Concentration for 1536 [0m
+[1m [92m [+] [92m Done for 1536 [0m
+
+[1m [95m [+] [95m Requesting for 8187 [0m
+[1m [92m [+] [92m Now getting CCASS for 8187 [0m
+[1m [92m [+] [92m Now getting Changes for 8187 [0m
+[1m [92m [+] [92m Now getting Concentration for 8187 [0m
+[1m [92m [+] [92m Done for 8187 [0m
+
+[1m [95m [+] [95m Requesting for 1753 [0m
+[1m [92m [+] [92m Now getting CCASS for 1753 [0m
+[1m [92m [+] [92m Now getting Changes for 1753 [0m
+[1m [92m [+] [92m Now getting Concentration for 1753 [0m
+[1m [92m [+] [92m Done for 1753 [0m
+
+147
+[1m [93m [+] [93m Pdf file is stored here "/Users/Alice/Downloads/alice/2020-01-31" [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [92m [+] [92m Now getting Changes for 948 [0m
+[1m [92m [+] [92m Now getting Concentration for 948 [0m
+[1m [92m [+] [92m Done for 948 [0m
+
+[1m [95m [+] [95m Requesting for 1321 [0m
+[1m [92m [+] [92m Now getting CCASS for 1321 [0m
+[1m [92m [+] [92m Now getting Changes for 1321 [0m
+[1m [92m [+] [92m Now getting Concentration for 1321 [0m
+[1m [92m [+] [92m Done for 1321 [0m
+
+[1m [95m [+] [95m Requesting for 1367 [0m
+[1m [92m [+] [92m Now getting CCASS for 1367 [0m
+[1m [92m [+] [92m Now getting Changes for 1367 [0m
+[1m [92m [+] [92m Now getting Concentration for 1367 [0m
+[1m [92m [+] [92m Done for 1367 [0m
+
+[1m [95m [+] [95m Requesting for 1536 [0m
+[1m [92m [+] [92m Now getting CCASS for 1536 [0m
+[1m [92m [+] [92m Now getting Changes for 1536 [0m
+[1m [92m [+] [92m Now getting Concentration for 1536 [0m
+[1m [92m [+] [92m Done for 1536 [0m
+
+[1m [95m [+] [95m Requesting for 8187 [0m
+[1m [92m [+] [92m Now getting CCASS for 8187 [0m
+[1m [92m [+] [92m Now getting Changes for 8187 [0m
+[1m [92m [+] [92m Now getting Concentration for 8187 [0m
+[1m [92m [+] [92m Done for 8187 [0m
+
+[1m [95m [+] [95m Requesting for 1753 [0m
+[1m [92m [+] [92m Now getting CCASS for 1753 [0m
+[1m [92m [+] [92m Now getting Changes for 1753 [0m
+[1m [92m [+] [92m Now getting Concentration for 1753 [0m
+[1m [92m [+] [92m Done for 1753 [0m
+
+147
+[1m [93m [+] [93m Pdf file is stored here "/Users/Alice/Downloads/alice/2020-01-31" [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [92m [+] [92m Now getting Changes for 948 [0m
+[1m [92m [+] [92m Now getting Concentration for 948 [0m
+[1m [92m [+] [92m Done for 948 [0m
+
+[1m [95m [+] [95m Requesting for 1321 [0m
+[1m [92m [+] [92m Now getting CCASS for 1321 [0m
+[1m [92m [+] [92m Now getting Changes for 1321 [0m
+[1m [92m [+] [92m Now getting Concentration for 1321 [0m
+[1m [92m [+] [92m Done for 1321 [0m
+
+[1m [95m [+] [95m Requesting for 1367 [0m
+[1m [92m [+] [92m Now getting CCASS for 1367 [0m
+[1m [92m [+] [92m Now getting Changes for 1367 [0m
+[1m [92m [+] [92m Now getting Concentration for 1367 [0m
+[1m [92m [+] [92m Done for 1367 [0m
+
+[1m [95m [+] [95m Requesting for 1536 [0m
+[1m [92m [+] [92m Now getting CCASS for 1536 [0m
+[1m [92m [+] [92m Now getting Changes for 1536 [0m
+[1m [92m [+] [92m Now getting Concentration for 1536 [0m
+[1m [92m [+] [92m Done for 1536 [0m
+
+[1m [95m [+] [95m Requesting for 8187 [0m
+[1m [92m [+] [92m Now getting CCASS for 8187 [0m
+[1m [92m [+] [92m Now getting Changes for 8187 [0m
+[1m [92m [+] [92m Now getting Concentration for 8187 [0m
+[1m [92m [+] [92m Done for 8187 [0m
+
+[1m [95m [+] [95m Requesting for 1753 [0m
+[1m [92m [+] [92m Now getting CCASS for 1753 [0m
+[1m [92m [+] [92m Now getting Changes for 1753 [0m
+[1m [92m [+] [92m Now getting Concentration for 1753 [0m
+[1m [92m [+] [92m Done for 1753 [0m
+
+147
+[1m [93m [+] [93m Pdf file is stored here "/Users/Alice/Downloads/alice/2020-01-31" [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [92m [+] [92m Now getting Changes for 948 [0m
+[1m [92m [+] [92m Now getting Concentration for 948 [0m
+[1m [92m [+] [92m Done for 948 [0m
+
+[1m [95m [+] [95m Requesting for 1321 [0m
+[1m [92m [+] [92m Now getting CCASS for 1321 [0m
+[1m [92m [+] [92m Now getting Changes for 1321 [0m
+[1m [92m [+] [92m Now getting Concentration for 1321 [0m
+[1m [92m [+] [92m Done for 1321 [0m
+
+[1m [95m [+] [95m Requesting for 1367 [0m
+[1m [92m [+] [92m Now getting CCASS for 1367 [0m
+[1m [92m [+] [92m Now getting Changes for 1367 [0m
+[1m [92m [+] [92m Now getting Concentration for 1367 [0m
+[1m [92m [+] [92m Done for 1367 [0m
+
+[1m [95m [+] [95m Requesting for 1536 [0m
+[1m [92m [+] [92m Now getting CCASS for 1536 [0m
+[1m [92m [+] [92m Now getting Changes for 1536 [0m
+[1m [92m [+] [92m Now getting Concentration for 1536 [0m
+[1m [92m [+] [92m Done for 1536 [0m
+
+[1m [95m [+] [95m Requesting for 8187 [0m
+[1m [92m [+] [92m Now getting CCASS for 8187 [0m
+[1m [92m [+] [92m Now getting Changes for 8187 [0m
+[1m [92m [+] [92m Now getting Concentration for 8187 [0m
+[1m [92m [+] [92m Done for 8187 [0m
+
+[1m [95m [+] [95m Requesting for 1753 [0m
+[1m [92m [+] [92m Now getting CCASS for 1753 [0m
+[1m [92m [+] [92m Now getting Changes for 1753 [0m
+[1m [92m [+] [92m Now getting Concentration for 1753 [0m
+[1m [92m [+] [92m Done for 1753 [0m
+
+147
+[1m [93m [+] [93m Pdf file is stored here "/Users/Alice/Downloads/alice/2020-01-31" [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [92m [+] [92m Now getting Changes for 948 [0m
+[1m [92m [+] [92m Now getting Concentration for 948 [0m
+[1m [92m [+] [92m Done for 948 [0m
+
+[1m [95m [+] [95m Requesting for 1321 [0m
+[1m [92m [+] [92m Now getting CCASS for 1321 [0m
+[1m [92m [+] [92m Now getting Changes for 1321 [0m
+[1m [92m [+] [92m Now getting Concentration for 1321 [0m
+[1m [92m [+] [92m Done for 1321 [0m
+
+[1m [95m [+] [95m Requesting for 1367 [0m
+[1m [92m [+] [92m Now getting CCASS for 1367 [0m
+[1m [92m [+] [92m Now getting Changes for 1367 [0m
+[1m [92m [+] [92m Now getting Concentration for 1367 [0m
+[1m [92m [+] [92m Done for 1367 [0m
+
+[1m [95m [+] [95m Requesting for 1536 [0m
+[1m [92m [+] [92m Now getting CCASS for 1536 [0m
+[1m [92m [+] [92m Now getting Changes for 1536 [0m
+[1m [92m [+] [92m Now getting Concentration for 1536 [0m
+[1m [92m [+] [92m Done for 1536 [0m
+
+[1m [95m [+] [95m Requesting for 8187 [0m
+[1m [92m [+] [92m Now getting CCASS for 8187 [0m
+[1m [92m [+] [92m Now getting Changes for 8187 [0m
+[1m [92m [+] [92m Now getting Concentration for 8187 [0m
+[1m [92m [+] [92m Done for 8187 [0m
+
+[1m [95m [+] [95m Requesting for 1753 [0m
+[1m [92m [+] [92m Now getting CCASS for 1753 [0m
+[1m [92m [+] [92m Now getting Changes for 1753 [0m
+[1m [92m [+] [92m Now getting Concentration for 1753 [0m
+[1m [92m [+] [92m Done for 1753 [0m
+
+147
+[1m [93m [+] [93m Pdf file is stored here "/Users/Alice/Downloads/alice/2020-01-31" [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [92m [+] [92m Now getting Changes for 948 [0m
+[1m [92m [+] [92m Now getting Concentration for 948 [0m
+[1m [92m [+] [92m Done for 948 [0m
+
+[1m [95m [+] [95m Requesting for 1321 [0m
+[1m [92m [+] [92m Now getting CCASS for 1321 [0m
+[1m [92m [+] [92m Now getting Changes for 1321 [0m
+[1m [92m [+] [92m Now getting Concentration for 1321 [0m
+[1m [92m [+] [92m Done for 1321 [0m
+
+[1m [95m [+] [95m Requesting for 1367 [0m
+[1m [92m [+] [92m Now getting CCASS for 1367 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [92m [+] [92m Now getting Changes for 948 [0m
+[1m [92m [+] [92m Now getting Concentration for 948 [0m
+[1m [92m [+] [92m Done for 948 [0m
+
+[1m [95m [+] [95m Requesting for 1321 [0m
+[1m [92m [+] [92m Now getting CCASS for 1321 [0m
+[1m [92m [+] [92m Now getting Changes for 1321 [0m
+[1m [92m [+] [92m Now getting Concentration for 1321 [0m
+[1m [92m [+] [92m Done for 1321 [0m
+
+[1m [95m [+] [95m Requesting for 1367 [0m
+[1m [92m [+] [92m Now getting CCASS for 1367 [0m
+[1m [92m [+] [92m Now getting Changes for 1367 [0m
+[1m [92m [+] [92m Now getting Concentration for 1367 [0m
+[1m [92m [+] [92m Done for 1367 [0m
+
+[1m [95m [+] [95m Requesting for 1536 [0m
+[1m [92m [+] [92m Now getting CCASS for 1536 [0m
+[1m [92m [+] [92m Now getting Changes for 1536 [0m
+[1m [92m [+] [92m Now getting Concentration for 1536 [0m
+[1m [92m [+] [92m Done for 1536 [0m
+
+[1m [95m [+] [95m Requesting for 8187 [0m
+[1m [92m [+] [92m Now getting CCASS for 8187 [0m
+[1m [92m [+] [92m Now getting Changes for 8187 [0m
+[1m [92m [+] [92m Now getting Concentration for 8187 [0m
+[1m [92m [+] [92m Done for 8187 [0m
+
+[1m [95m [+] [95m Requesting for 1753 [0m
+[1m [92m [+] [92m Now getting CCASS for 1753 [0m
+[1m [92m [+] [92m Now getting Changes for 1753 [0m
+[1m [92m [+] [92m Now getting Concentration for 1753 [0m
+[1m [92m [+] [92m Done for 1753 [0m
+
+147
+[1m [93m [+] [93m Pdf file is stored here "/Users/Alice/Downloads/alice/2020-01-31" [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [92m [+] [92m Now getting Changes for 948 [0m
+[1m [92m [+] [92m Now getting Concentration for 948 [0m
+[1m [92m [+] [92m Done for 948 [0m
+
+[1m [95m [+] [95m Requesting for 1321 [0m
+[1m [92m [+] [92m Now getting CCASS for 1321 [0m
+[1m [92m [+] [92m Now getting Changes for 1321 [0m
+[1m [92m [+] [92m Now getting Concentration for 1321 [0m
+[1m [92m [+] [92m Done for 1321 [0m
+
+[1m [95m [+] [95m Requesting for 1367 [0m
+[1m [92m [+] [92m Now getting CCASS for 1367 [0m
+[1m [92m [+] [92m Now getting Changes for 1367 [0m
+[1m [92m [+] [92m Now getting Concentration for 1367 [0m
+[1m [92m [+] [92m Done for 1367 [0m
+
+[1m [95m [+] [95m Requesting for 1536 [0m
+[1m [92m [+] [92m Now getting CCASS for 1536 [0m
+[1m [92m [+] [92m Now getting Changes for 1536 [0m
+[1m [92m [+] [92m Now getting Concentration for 1536 [0m
+[1m [92m [+] [92m Done for 1536 [0m
+
+[1m [95m [+] [95m Requesting for 8187 [0m
+[1m [92m [+] [92m Now getting CCASS for 8187 [0m
+[1m [92m [+] [92m Now getting Changes for 8187 [0m
+[1m [92m [+] [92m Now getting Concentration for 8187 [0m
+[1m [92m [+] [92m Done for 8187 [0m
+
+[1m [95m [+] [95m Requesting for 1753 [0m
+[1m [92m [+] [92m Now getting CCASS for 1753 [0m
+[1m [92m [+] [92m Now getting Changes for 1753 [0m
+[1m [92m [+] [92m Now getting Concentration for 1753 [0m
+[1m [92m [+] [92m Done for 1753 [0m
+
+147
+[1m [93m [+] [93m Pdf file is stored here "/Users/Alice/Downloads/alice/2020-01-31" [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [92m [+] [92m Now getting Changes for 948 [0m
+[1m [92m [+] [92m Now getting Concentration for 948 [0m
+[1m [92m [+] [92m Done for 948 [0m
+
+[1m [95m [+] [95m Requesting for 1321 [0m
+[1m [92m [+] [92m Now getting CCASS for 1321 [0m
+[1m [92m [+] [92m Now getting Changes for 1321 [0m
+[1m [92m [+] [92m Now getting Concentration for 1321 [0m
+[1m [92m [+] [92m Done for 1321 [0m
+
+[1m [95m [+] [95m Requesting for 1367 [0m
+[1m [92m [+] [92m Now getting CCASS for 1367 [0m
+[1m [92m [+] [92m Now getting Changes for 1367 [0m
+[1m [92m [+] [92m Now getting Concentration for 1367 [0m
+[1m [92m [+] [92m Done for 1367 [0m
+
+[1m [95m [+] [95m Requesting for 1536 [0m
+[1m [92m [+] [92m Now getting CCASS for 1536 [0m
+[1m [92m [+] [92m Now getting Changes for 1536 [0m
+[1m [92m [+] [92m Now getting Concentration for 1536 [0m
+[1m [92m [+] [92m Done for 1536 [0m
+
+[1m [95m [+] [95m Requesting for 8187 [0m
+[1m [92m [+] [92m Now getting CCASS for 8187 [0m
+[1m [92m [+] [92m Now getting Changes for 8187 [0m
+[1m [92m [+] [92m Now getting Concentration for 8187 [0m
+[1m [92m [+] [92m Done for 8187 [0m
+
+[1m [95m [+] [95m Requesting for 1753 [0m
+[1m [92m [+] [92m Now getting CCASS for 1753 [0m
+[1m [92m [+] [92m Now getting Changes for 1753 [0m
+[1m [92m [+] [92m Now getting Concentration for 1753 [0m
+[1m [92m [+] [92m Done for 1753 [0m
+
+147
+[1m [93m [+] [93m Pdf file is stored here "/Users/Alice/Downloads/alice/2020-01-31" [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [92m [+] [92m Now getting Changes for 948 [0m
+[1m [92m [+] [92m Now getting Concentration for 948 [0m
+[1m [92m [+] [92m Done for 948 [0m
+
+[1m [95m [+] [95m Requesting for 1321 [0m
+[1m [92m [+] [92m Now getting CCASS for 1321 [0m
+[1m [92m [+] [92m Now getting Changes for 1321 [0m
+[1m [92m [+] [92m Now getting Concentration for 1321 [0m
+[1m [92m [+] [92m Done for 1321 [0m
+
+[1m [95m [+] [95m Requesting for 1367 [0m
+[1m [92m [+] [92m Now getting CCASS for 1367 [0m
+[1m [92m [+] [92m Now getting Changes for 1367 [0m
+[1m [92m [+] [92m Now getting Concentration for 1367 [0m
+[1m [92m [+] [92m Done for 1367 [0m
+
+[1m [95m [+] [95m Requesting for 1536 [0m
+[1m [92m [+] [92m Now getting CCASS for 1536 [0m
+[1m [92m [+] [92m Now getting Changes for 1536 [0m
+[1m [92m [+] [92m Now getting Concentration for 1536 [0m
+[1m [92m [+] [92m Done for 1536 [0m
+
+[1m [95m [+] [95m Requesting for 8187 [0m
+[1m [92m [+] [92m Now getting CCASS for 8187 [0m
+[1m [92m [+] [92m Now getting Changes for 8187 [0m
+[1m [92m [+] [92m Now getting Concentration for 8187 [0m
+[1m [92m [+] [92m Done for 8187 [0m
+
+[1m [95m [+] [95m Requesting for 1753 [0m
+[1m [92m [+] [92m Now getting CCASS for 1753 [0m
+[1m [92m [+] [92m Now getting Changes for 1753 [0m
+[1m [92m [+] [92m Now getting Concentration for 1753 [0m
+[1m [92m [+] [92m Done for 1753 [0m
+
+147
+[1m [93m [+] [93m Pdf file is stored here "/Users/Alice/Downloads/alice/2020-01-31" [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [92m [+] [92m Now getting Changes for 948 [0m
+[1m [92m [+] [92m Now getting Concentration for 948 [0m
+[1m [92m [+] [92m Done for 948 [0m
+
+[1m [95m [+] [95m Requesting for 1321 [0m
+[1m [92m [+] [92m Now getting CCASS for 1321 [0m
+[1m [92m [+] [92m Now getting Changes for 1321 [0m
+[1m [92m [+] [92m Now getting Concentration for 1321 [0m
+[1m [92m [+] [92m Done for 1321 [0m
+
+[1m [95m [+] [95m Requesting for 1367 [0m
+[1m [92m [+] [92m Now getting CCASS for 1367 [0m
+[1m [92m [+] [92m Now getting Changes for 1367 [0m
+[1m [92m [+] [92m Now getting Concentration for 1367 [0m
+[1m [92m [+] [92m Done for 1367 [0m
+
+[1m [95m [+] [95m Requesting for 1536 [0m
+[1m [92m [+] [92m Now getting CCASS for 1536 [0m
+[1m [92m [+] [92m Now getting Changes for 1536 [0m
+[1m [92m [+] [92m Now getting Concentration for 1536 [0m
+[1m [92m [+] [92m Done for 1536 [0m
+
+[1m [95m [+] [95m Requesting for 8187 [0m
+[1m [92m [+] [92m Now getting CCASS for 8187 [0m
+[1m [92m [+] [92m Now getting Changes for 8187 [0m
+[1m [92m [+] [92m Now getting Concentration for 8187 [0m
+[1m [92m [+] [92m Done for 8187 [0m
+
+[1m [95m [+] [95m Requesting for 1753 [0m
+[1m [92m [+] [92m Now getting CCASS for 1753 [0m
+[1m [92m [+] [92m Now getting Changes for 1753 [0m
+[1m [92m [+] [92m Now getting Concentration for 1753 [0m
+[1m [92m [+] [92m Done for 1753 [0m
+
+147
+[1m [93m [+] [93m Pdf file is stored here "/Users/Alice/Downloads/alice/2020-01-31" [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [92m [+] [92m Now getting Changes for 948 [0m
+[1m [92m [+] [92m Now getting Concentration for 948 [0m
+[1m [92m [+] [92m Done for 948 [0m
+
+[1m [95m [+] [95m Requesting for 1321 [0m
+[1m [92m [+] [92m Now getting CCASS for 1321 [0m
+[1m [92m [+] [92m Now getting Changes for 1321 [0m
+[1m [92m [+] [92m Now getting Concentration for 1321 [0m
+[1m [92m [+] [92m Done for 1321 [0m
+
+[1m [95m [+] [95m Requesting for 1367 [0m
+[1m [92m [+] [92m Now getting CCASS for 1367 [0m
+[1m [92m [+] [92m Now getting Changes for 1367 [0m
+[1m [92m [+] [92m Now getting Concentration for 1367 [0m
+[1m [92m [+] [92m Done for 1367 [0m
+
+[1m [95m [+] [95m Requesting for 1536 [0m
+[1m [92m [+] [92m Now getting CCASS for 1536 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [92m [+] [92m Now getting Changes for 948 [0m
+[1m [92m [+] [92m Now getting Concentration for 948 [0m
+[1m [92m [+] [92m Done for 948 [0m
+
+[1m [95m [+] [95m Requesting for 1321 [0m
+[1m [92m [+] [92m Now getting CCASS for 1321 [0m
+[1m [92m [+] [92m Now getting Changes for 1321 [0m
+[1m [92m [+] [92m Now getting Concentration for 1321 [0m
+[1m [92m [+] [92m Done for 1321 [0m
+
+[1m [95m [+] [95m Requesting for 1367 [0m
+[1m [92m [+] [92m Now getting CCASS for 1367 [0m
+[1m [92m [+] [92m Now getting Changes for 1367 [0m
+[1m [92m [+] [92m Now getting Concentration for 1367 [0m
+[1m [92m [+] [92m Done for 1367 [0m
+
+[1m [95m [+] [95m Requesting for 1536 [0m
+[1m [92m [+] [92m Now getting CCASS for 1536 [0m
+[1m [92m [+] [92m Now getting Changes for 1536 [0m
+[1m [92m [+] [92m Now getting Concentration for 1536 [0m
+[1m [92m [+] [92m Done for 1536 [0m
+
+[1m [95m [+] [95m Requesting for 8187 [0m
+[1m [92m [+] [92m Now getting CCASS for 8187 [0m
+[1m [92m [+] [92m Now getting Changes for 8187 [0m
+[1m [92m [+] [92m Now getting Concentration for 8187 [0m
+[1m [92m [+] [92m Done for 8187 [0m
+
+[1m [95m [+] [95m Requesting for 1753 [0m
+[1m [92m [+] [92m Now getting CCASS for 1753 [0m
+[1m [92m [+] [92m Now getting Changes for 1753 [0m
+[1m [92m [+] [92m Now getting Concentration for 1753 [0m
+[1m [92m [+] [92m Done for 1753 [0m
+
+147
+[1m [93m [+] [93m Pdf file is stored here "/Users/Alice/Downloads/alice/2020-01-31" [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [92m [+] [92m Now getting Changes for 948 [0m
+[1m [92m [+] [92m Now getting Concentration for 948 [0m
+[1m [92m [+] [92m Done for 948 [0m
+
+[1m [95m [+] [95m Requesting for 1321 [0m
+[1m [92m [+] [92m Now getting CCASS for 1321 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [92m [+] [92m Now getting Changes for 948 [0m
+[1m [92m [+] [92m Now getting Concentration for 948 [0m
+[1m [92m [+] [92m Done for 948 [0m
+
+[1m [95m [+] [95m Requesting for 1321 [0m
+[1m [92m [+] [92m Now getting CCASS for 1321 [0m
+[1m [92m [+] [92m Now getting Changes for 1321 [0m
+[1m [92m [+] [92m Now getting Concentration for 1321 [0m
+[1m [92m [+] [92m Done for 1321 [0m
+
+[1m [95m [+] [95m Requesting for 1367 [0m
+[1m [92m [+] [92m Now getting CCASS for 1367 [0m
+[1m [92m [+] [92m Now getting Changes for 1367 [0m
+[1m [92m [+] [92m Now getting Concentration for 1367 [0m
+[1m [92m [+] [92m Done for 1367 [0m
+
+[1m [95m [+] [95m Requesting for 1536 [0m
+[1m [92m [+] [92m Now getting CCASS for 1536 [0m
+[1m [92m [+] [92m Now getting Changes for 1536 [0m
+[1m [92m [+] [92m Now getting Concentration for 1536 [0m
+[1m [92m [+] [92m Done for 1536 [0m
+
+[1m [95m [+] [95m Requesting for 8187 [0m
+[1m [92m [+] [92m Now getting CCASS for 8187 [0m
+[1m [92m [+] [92m Now getting Changes for 8187 [0m
+[1m [92m [+] [92m Now getting Concentration for 8187 [0m
+[1m [92m [+] [92m Done for 8187 [0m
+
+[1m [95m [+] [95m Requesting for 1753 [0m
+[1m [92m [+] [92m Now getting CCASS for 1753 [0m
+[1m [92m [+] [92m Now getting Changes for 1753 [0m
+[1m [92m [+] [92m Now getting Concentration for 1753 [0m
+[1m [92m [+] [92m Done for 1753 [0m
+
+147
+[1m [93m [+] [93m Pdf file is stored here "/Users/Alice/Downloads/alice/2020-01-31" [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [92m [+] [92m Now getting Changes for 948 [0m
+[1m [92m [+] [92m Now getting Concentration for 948 [0m
+[1m [92m [+] [92m Done for 948 [0m
+
+[1m [95m [+] [95m Requesting for 1321 [0m
+[1m [92m [+] [92m Now getting CCASS for 1321 [0m
+[1m [92m [+] [92m Now getting Changes for 1321 [0m
+[1m [92m [+] [92m Now getting Concentration for 1321 [0m
+[1m [92m [+] [92m Done for 1321 [0m
+
+[1m [95m [+] [95m Requesting for 1367 [0m
+[1m [92m [+] [92m Now getting CCASS for 1367 [0m
+[1m [92m [+] [92m Now getting Changes for 1367 [0m
+[1m [92m [+] [92m Now getting Concentration for 1367 [0m
+[1m [92m [+] [92m Done for 1367 [0m
+
+[1m [95m [+] [95m Requesting for 1536 [0m
+[1m [92m [+] [92m Now getting CCASS for 1536 [0m
+[1m [92m [+] [92m Now getting Changes for 1536 [0m
+[1m [92m [+] [92m Now getting Concentration for 1536 [0m
+[1m [92m [+] [92m Done for 1536 [0m
+
+[1m [95m [+] [95m Requesting for 8187 [0m
+[1m [92m [+] [92m Now getting CCASS for 8187 [0m
+[1m [92m [+] [92m Now getting Changes for 8187 [0m
+[1m [92m [+] [92m Now getting Concentration for 8187 [0m
+[1m [92m [+] [92m Done for 8187 [0m
+
+[1m [95m [+] [95m Requesting for 1753 [0m
+[1m [92m [+] [92m Now getting CCASS for 1753 [0m
+[1m [92m [+] [92m Now getting Changes for 1753 [0m
+[1m [92m [+] [92m Now getting Concentration for 1753 [0m
+[1m [92m [+] [92m Done for 1753 [0m
+
+147
+[1m [93m [+] [93m Pdf file is stored here "/Users/Alice/Downloads/alice/2020-01-31" [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [92m [+] [92m Now getting Changes for 948 [0m
+[1m [92m [+] [92m Now getting Concentration for 948 [0m
+[1m [92m [+] [92m Done for 948 [0m
+
+[1m [95m [+] [95m Requesting for 1321 [0m
+[1m [92m [+] [92m Now getting CCASS for 1321 [0m
+[1m [92m [+] [92m Now getting Changes for 1321 [0m
+[1m [92m [+] [92m Now getting Concentration for 1321 [0m
+[1m [92m [+] [92m Done for 1321 [0m
+
+[1m [95m [+] [95m Requesting for 1367 [0m
+[1m [92m [+] [92m Now getting CCASS for 1367 [0m
+[1m [92m [+] [92m Now getting Changes for 1367 [0m
+[1m [92m [+] [92m Now getting Concentration for 1367 [0m
+[1m [92m [+] [92m Done for 1367 [0m
+
+[1m [95m [+] [95m Requesting for 1536 [0m
+[1m [92m [+] [92m Now getting CCASS for 1536 [0m
+[1m [92m [+] [92m Now getting Changes for 1536 [0m
+[1m [92m [+] [92m Now getting Concentration for 1536 [0m
+[1m [92m [+] [92m Done for 1536 [0m
+
+[1m [95m [+] [95m Requesting for 8187 [0m
+[1m [92m [+] [92m Now getting CCASS for 8187 [0m
+[1m [92m [+] [92m Now getting Changes for 8187 [0m
+[1m [92m [+] [92m Now getting Concentration for 8187 [0m
+[1m [92m [+] [92m Done for 8187 [0m
+
+[1m [95m [+] [95m Requesting for 1753 [0m
+[1m [92m [+] [92m Now getting CCASS for 1753 [0m
+[1m [92m [+] [92m Now getting Changes for 1753 [0m
+[1m [92m [+] [92m Now getting Concentration for 1753 [0m
+[1m [92m [+] [92m Done for 1753 [0m
+
+147
+[1m [93m [+] [93m Pdf file is stored here "/Users/Alice/Downloads/alice/2020-01-31" [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [92m [+] [92m Now getting Changes for 948 [0m
+[1m [92m [+] [92m Now getting Concentration for 948 [0m
+[1m [92m [+] [92m Done for 948 [0m
+
+[1m [95m [+] [95m Requesting for 1321 [0m
+[1m [92m [+] [92m Now getting CCASS for 1321 [0m
+[1m [92m [+] [92m Now getting Changes for 1321 [0m
+[1m [92m [+] [92m Now getting Concentration for 1321 [0m
+[1m [92m [+] [92m Done for 1321 [0m
+
+[1m [95m [+] [95m Requesting for 1367 [0m
+[1m [92m [+] [92m Now getting CCASS for 1367 [0m
+[1m [92m [+] [92m Now getting Changes for 1367 [0m
+[1m [92m [+] [92m Now getting Concentration for 1367 [0m
+[1m [92m [+] [92m Done for 1367 [0m
+
+[1m [95m [+] [95m Requesting for 1536 [0m
+[1m [92m [+] [92m Now getting CCASS for 1536 [0m
+[1m [92m [+] [92m Now getting Changes for 1536 [0m
+[1m [92m [+] [92m Now getting Concentration for 1536 [0m
+[1m [92m [+] [92m Done for 1536 [0m
+
+[1m [95m [+] [95m Requesting for 8187 [0m
+[1m [92m [+] [92m Now getting CCASS for 8187 [0m
+[1m [92m [+] [92m Now getting Changes for 8187 [0m
+[1m [92m [+] [92m Now getting Concentration for 8187 [0m
+[1m [92m [+] [92m Done for 8187 [0m
+
+[1m [95m [+] [95m Requesting for 1753 [0m
+[1m [92m [+] [92m Now getting CCASS for 1753 [0m
+[1m [92m [+] [92m Now getting Changes for 1753 [0m
+[1m [92m [+] [92m Now getting Concentration for 1753 [0m
+[1m [92m [+] [92m Done for 1753 [0m
+
+147
+[1m [93m [+] [93m Pdf file is stored here "/Users/Alice/Downloads/alice/2020-01-31" [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [92m [+] [92m Now getting Changes for 948 [0m
+[1m [92m [+] [92m Now getting Concentration for 948 [0m
+[1m [92m [+] [92m Done for 948 [0m
+
+[1m [95m [+] [95m Requesting for 1321 [0m
+[1m [92m [+] [92m Now getting CCASS for 1321 [0m
+[1m [92m [+] [92m Now getting Changes for 1321 [0m
+[1m [92m [+] [92m Now getting Concentration for 1321 [0m
+[1m [92m [+] [92m Done for 1321 [0m
+
+[1m [95m [+] [95m Requesting for 1367 [0m
+[1m [92m [+] [92m Now getting CCASS for 1367 [0m
+[1m [92m [+] [92m Now getting Changes for 1367 [0m
+[1m [92m [+] [92m Now getting Concentration for 1367 [0m
+[1m [92m [+] [92m Done for 1367 [0m
+
+[1m [95m [+] [95m Requesting for 1536 [0m
+[1m [92m [+] [92m Now getting CCASS for 1536 [0m
+[1m [92m [+] [92m Now getting Changes for 1536 [0m
+[1m [92m [+] [92m Now getting Concentration for 1536 [0m
+[1m [92m [+] [92m Done for 1536 [0m
+
+[1m [95m [+] [95m Requesting for 8187 [0m
+[1m [92m [+] [92m Now getting CCASS for 8187 [0m
+[1m [92m [+] [92m Now getting Changes for 8187 [0m
+[1m [92m [+] [92m Now getting Concentration for 8187 [0m
+[1m [92m [+] [92m Done for 8187 [0m
+
+[1m [95m [+] [95m Requesting for 1753 [0m
+[1m [92m [+] [92m Now getting CCASS for 1753 [0m
+[1m [92m [+] [92m Now getting Changes for 1753 [0m
+[1m [92m [+] [92m Now getting Concentration for 1753 [0m
+[1m [92m [+] [92m Done for 1753 [0m
+
+147
+[1m [93m [+] [93m Pdf file is stored here "/Users/Alice/Downloads/alice/2020-01-31" [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [92m [+] [92m Now getting Changes for 948 [0m
+[1m [92m [+] [92m Now getting Concentration for 948 [0m
+[1m [92m [+] [92m Done for 948 [0m
+
+[1m [95m [+] [95m Requesting for 1321 [0m
+[1m [92m [+] [92m Now getting CCASS for 1321 [0m
+[1m [92m [+] [92m Now getting Changes for 1321 [0m
+[1m [92m [+] [92m Now getting Concentration for 1321 [0m
+[1m [92m [+] [92m Done for 1321 [0m
+
+[1m [95m [+] [95m Requesting for 1367 [0m
+[1m [92m [+] [92m Now getting CCASS for 1367 [0m
+[1m [92m [+] [92m Now getting Changes for 1367 [0m
+[1m [92m [+] [92m Now getting Concentration for 1367 [0m
+[1m [92m [+] [92m Done for 1367 [0m
+
+[1m [95m [+] [95m Requesting for 1536 [0m
+[1m [92m [+] [92m Now getting CCASS for 1536 [0m
+[1m [92m [+] [92m Now getting Changes for 1536 [0m
+[1m [92m [+] [92m Now getting Concentration for 1536 [0m
+[1m [92m [+] [92m Done for 1536 [0m
+
+[1m [95m [+] [95m Requesting for 8187 [0m
+[1m [92m [+] [92m Now getting CCASS for 8187 [0m
+[1m [92m [+] [92m Now getting Changes for 8187 [0m
+[1m [92m [+] [92m Now getting Concentration for 8187 [0m
+[1m [92m [+] [92m Done for 8187 [0m
+
+[1m [95m [+] [95m Requesting for 1753 [0m
+[1m [92m [+] [92m Now getting CCASS for 1753 [0m
+[1m [92m [+] [92m Now getting Changes for 1753 [0m
+[1m [92m [+] [92m Now getting Concentration for 1753 [0m
+[1m [92m [+] [92m Done for 1753 [0m
+
+147
+[1m [93m [+] [93m Pdf file is stored here "/Users/Alice/Downloads/alice/2020-01-31" [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [92m [+] [92m Now getting Changes for 948 [0m
+[1m [92m [+] [92m Now getting Concentration for 948 [0m
+[1m [92m [+] [92m Done for 948 [0m
+
+[1m [95m [+] [95m Requesting for 1321 [0m
+[1m [92m [+] [92m Now getting CCASS for 1321 [0m
+[1m [92m [+] [92m Now getting Changes for 1321 [0m
+[1m [92m [+] [92m Now getting Concentration for 1321 [0m
+[1m [92m [+] [92m Done for 1321 [0m
+
+[1m [95m [+] [95m Requesting for 1367 [0m
+[1m [92m [+] [92m Now getting CCASS for 1367 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [92m [+] [92m Now getting Changes for 859 [0m
+[1m [92m [+] [92m Now getting Concentration for 859 [0m
+[1m [92m [+] [92m Done for 859 [0m
+
+[1m [95m [+] [95m Requesting for 948 [0m
+[1m [92m [+] [92m Now getting CCASS for 948 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
+[1m [95m [+] [95m Requesting for 859 [0m
+[1m [92m [+] [92m Now getting CCASS for 859 [0m
